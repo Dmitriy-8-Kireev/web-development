@@ -557,3 +557,13 @@ git commit -am "Navigation fixs"   # сделать коммит
 *.css  diff=css
 *.scss diff=css
 ```
+Мaster - стабильная ветка
+Hotfix - ветка если ошибка и надо быстро исправить
+Release - ветка для релизных версий (более менее стабильные версии)
+Development - самая активная ветка, предназначена для нового функционала
+Feature - ветка с функционалом, который будет достпен в будущем
+
+![1549629732459](https://user-images.githubusercontent.com/35657933/52482800-46ec0200-2bc3-11e9-92b0-99a27f5e3651.jpg)
+![1549640820750](https://user-images.githubusercontent.com/35657933/52488919-05168800-2bd2-11e9-98eb-bb91ba85d36c.jpg)
+![1549644468603](https://user-images.githubusercontent.com/35657933/52492587-8b36cc80-2bda-11e9-93ae-979049446f81.jpg)
+![1549646363291](https://user-images.githubusercontent.com/35657933/52494376-df43b000-2bde-11e9-8484-2d983deff7ca.jpg)
